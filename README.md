@@ -23,10 +23,13 @@ Une archive sera à rendre pour valider cette évaluation. La qualité du rendu 
 
 ### Comment faire son rendu?
 
-L'archive mentionnée dans la partie ci-dessus devra être envoyé avant la date butoire à : 
+L'archive mentionnée dans la partie ci-dessus devra être soit :
+- Envoyée avant la date butoire à : 
 ```
 m.lacombe@rubika-edu.com
 ```
+
+- Postée sur le [drive](https://drive.google.com/drive/folders/10DsHYXm6qF8bRlkpApOAjkvLRlvM5T1z?usp=drive_link)  
 
 Le nom de l'archive devra respecté le format
 ```
