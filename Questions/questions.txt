@@ -1,0 +1,17 @@
+1. Quelle est le but d'une "forward declaration"?
+
+
+
+2. Dans quel(s) cas peut-on l'utiliser?
+
+
+
+3. Quelles sont les deux problèmes qu'amène le "multi-thrading"?
+
+
+
+4. Comment peut-on les solutionner?
+
+
+
+5. Quelle(s) est/sont la/les différence(s) entre la "stack" et la "heap"?
